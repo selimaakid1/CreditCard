@@ -1,0 +1,41 @@
+.creditCard{
+  background-color: #274E78;
+  border-radius: 10px;
+  width: 400px;
+  padding: 5px;
+  margin: 10px;
+  color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif
+
+}
+.creditCardTitle{
+  text-align: right;
+}
+.creditCardItems{
+  display: flex;
+
+}
+.creditCardText{
+  flex: 1;
+
+}
+.creditCardVld{
+  text-align: right;
+}
+
+.creditCardLogo{
+  width: 100px;
+  display: flex;
+  align-items: flex-end;
+}
+.creditCardName{
+  font-size: 18px;
+}
+input{
+    width: 30%;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 6px;
+    border:1px solid #ccc;
+    font-family: 'Roboto', sans-serif;
+}
